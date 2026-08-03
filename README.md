@@ -11,13 +11,7 @@ Diagnose what is actually driving a customer complaint before drafting a reply, 
 
 Some complaints are exactly what they say, a real, specific fault that just needs fixing. Others say one thing on the surface while the real driver is something else, usually that nobody acknowledged the issue until the complaint was made. Answering the wrong one gets the reply wrong either way: over-explaining a simple fault, or under-addressing a real underlying frustration.
 
-```mermaid
-flowchart TB
-    A["1. Paste the complaint"]
-    B["2. Actual driver identified, not just the surface wording"]
-    C["3. A reply addressing that driver, or a request for specifics"]
-    A --> B --> C
-```
+![Four possible drivers behind a complaint before a response is drafted.](assets/diagrams/04-diagnose-before-you-respond.svg)
 
 ## Use It
 
