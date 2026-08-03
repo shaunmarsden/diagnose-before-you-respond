@@ -9,7 +9,7 @@ Diagnose what is actually driving a customer complaint before drafting a reply, 
 
 ## Why
 
-Some complaints are exactly what they say, a real, specific fault that just needs fixing. Others say one thing on the surface while the real driver is something else, usually that nobody acknowledged the issue until the complaint was made. Answering the wrong one of these, over-explaining a simple fault, or under-addressing a real underlying frustration, gets the reply wrong either way.
+Some complaints are exactly what they say, a real, specific fault that just needs fixing. Others say one thing on the surface while the real driver is something else, usually that nobody acknowledged the issue until the complaint was made. Answering the wrong one gets the reply wrong either way: over-explaining a simple fault, or under-addressing a real underlying frustration.
 
 ```mermaid
 flowchart TB
