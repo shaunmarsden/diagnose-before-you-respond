@@ -40,10 +40,6 @@ This is deliberately narrow: customer complaints specifically, not general workp
 
 This drafts a reply and proposes a diagnosis. Sending anything, and any compensation offered, stays subject to explicit human approval.
 
-## Licence
-
-MIT.
-
 ## Feedback
 
 Used it on a real complaint? [Start a discussion](https://github.com/shaunmarsden/diagnose-before-you-respond/discussions) if the diagnosis did not fit.
