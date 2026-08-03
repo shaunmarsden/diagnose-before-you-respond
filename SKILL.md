@@ -47,4 +47,4 @@ Do not produce a confident diagnosis when:
 
 This drafts a reply and proposes the diagnosis. Sending anything, and any compensation offered, stays subject to explicit human approval.
 
-For a fictional worked example, read [the worked example](example/).
+For a fictional worked example, read [the worked example](example/). For the harder cases, an accurate description mistaken for a fault, and a complaint too vague to diagnose, read [the second worked example](example-two/). Use [the review checklist](checks/checklist.md) before sending any reply.

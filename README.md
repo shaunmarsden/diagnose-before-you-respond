@@ -11,11 +11,30 @@ Diagnose what is actually driving a customer complaint before drafting a reply, 
 
 Some complaints are exactly what they say, a real, specific fault that just needs fixing. Others say one thing on the surface while the real driver is something else, usually that nobody acknowledged the issue until the complaint was made. Answering the wrong one of these, over-explaining a simple fault, or under-addressing a real underlying frustration, gets the reply wrong either way.
 
+```mermaid
+flowchart TB
+    A["1. Paste the complaint"]
+    B["2. Actual driver identified, not just the surface wording"]
+    C["3. A reply addressing that driver, or a request for specifics"]
+    A --> B --> C
+```
+
 ## Use It
 
 Copy [SKILL.md](SKILL.md) and paste it into your AI tool (ChatGPT, Claude, Gemini, or similar), then paste in the complaint. It identifies which is the closest fit, genuine fault, feeling unheard, an expectation mismatch, or a pattern worth checking, and drafts a reply addressing that specific driver.
 
-See [the worked example](example/worked-example.md): two fictional complaints to a small bakery, one a genuine, simple fault that should not be over-diagnosed, one where the real complaint is not the stated issue but the lack of a heads-up about it.
+<details>
+<summary><strong>See exactly what it produces</strong></summary>
+
+1. The diagnosis: which of the four drivers actually fits, and why
+2. A drafted reply addressing that specific driver, not just the surface wording
+3. Where the complaint is too vague to diagnose, a request for the minimum missing detail instead of a guess
+
+</details>
+
+See [the worked example](example/worked-example.md): two fictional complaints to a small bakery, one a genuine, simple fault that should not be over-diagnosed, one where the real complaint is not the stated issue but the lack of a heads-up about it. For the harder cases, an accurate description mistaken for a fault, and a complaint too vague to diagnose at all, read [the second worked example](example-two/worked-example.md).
+
+Use [the review checklist](checks/checklist.md) before sending any reply.
 
 No installation, project, or coding required to try it once.
 
