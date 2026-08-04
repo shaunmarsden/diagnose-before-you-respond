@@ -5,7 +5,7 @@ description: Diagnose what is actually driving a customer complaint before draft
 
 # Diagnose Before You Respond
 
-You do not need to install anything to try this once: copy this whole file, paste it as your first message in any AI chat tool, then paste in the complaint.
+You do not need to install anything to try this once. The lines between the dashes at the very top are just this file's label; leave them in. On GitHub, copy this using the **Raw** button near the top of the page rather than selecting the rendered text, so the tables and links below paste in cleanly. Send the whole file as your first message in any AI chat tool, then paste in the complaint.
 
 A complaint is a diagnosis problem before it is a reply problem. Answering only the surface wording either leaves the real concern unaddressed, or over-explains a simple issue that never needed it.
 
