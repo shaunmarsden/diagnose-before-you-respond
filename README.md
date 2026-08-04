@@ -28,7 +28,7 @@ Copy [SKILL.md](SKILL.md) and paste it into your AI tool (ChatGPT, Claude, Gemin
 
 See [the worked example](example/worked-example.md): two fictional complaints to a small bakery, one a genuine, simple fault that should not be over-diagnosed, one where the real complaint is not the stated issue but the lack of a heads-up about it. For the harder cases, an accurate description mistaken for a fault, and a complaint too vague to diagnose at all, read [the second worked example](example-two/worked-example.md).
 
-Use [the review checklist](checks/checklist.md) before sending any reply.
+Use [the blank template](templates/response-template.md) for your own case, and [the review checklist](checks/checklist.md) before sending any reply.
 
 No installation, project, or coding required to try it once.
 
