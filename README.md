@@ -5,45 +5,45 @@
   <a href="LICENSE"><img alt="Licence: MIT" src="https://img.shields.io/badge/licence-MIT-lightgrey"></a>
 </p>
 
-Diagnose what is actually driving a customer complaint before drafting a reply, rather than answering only the surface wording.
+Work out what's really behind a customer complaint before you draft a reply, rather than answering only the words on the surface.
 
 ## Why
 
-Some complaints are exactly what they say, a real, specific fault that just needs fixing. Others say one thing on the surface while the real driver is something else, usually that nobody acknowledged the issue until the complaint was made. Answering the wrong one gets the reply wrong either way: over-explaining a simple fault, or under-addressing a real underlying frustration.
+Some complaints are exactly what they say: a real, specific fault that needs fixing. Others say one thing when the real cause is something else, usually that nobody owned up to the problem until the customer complained. Answer the wrong one and the reply goes wrong. You over-explain a simple fault, or say too little about a real frustration.
 
 [![Four possible drivers behind a complaint before a response is drafted.](assets/diagrams/04-diagnose-before-you-respond.svg)](SKILL.md)
 
 ## Use It
 
-Copy [SKILL.md](SKILL.md) and paste it into your AI tool (ChatGPT, Claude, Gemini, or similar), then paste in the complaint. It identifies which is the closest fit, genuine fault, feeling unheard, an expectation mismatch, or a pattern worth checking, and drafts a reply addressing that specific driver.
+Copy [SKILL.md](SKILL.md) and paste it into your AI tool (ChatGPT, Claude, Gemini or similar). Then paste in the complaint. It picks the closest of four causes: a real fault, feeling unheard, a gap between what they expected and what was promised, or a pattern worth checking. Then it drafts a reply to that cause.
 
 <details>
 <summary><strong>See exactly what it produces</strong></summary>
 
-1. The diagnosis: which of the four drivers actually fits, and why
-2. A drafted reply addressing that specific driver, not just the surface wording
-3. Where the complaint is too vague to diagnose, a request for the minimum missing detail instead of a guess
+1. The diagnosis: which of the four causes fits, and why
+2. A draft reply to that cause, not just to the surface wording
+3. Where the complaint is too vague to diagnose, a request for the least detail it needs, instead of a guess
 
 </details>
 
-See [the worked example](example/worked-example.md): two fictional complaints to a small bakery, one a genuine, simple fault that should not be over-diagnosed, one where the real complaint is not the stated issue but the lack of a heads-up about it. For the harder cases, an accurate description mistaken for a fault, and a complaint too vague to diagnose at all, read [the second worked example](example-two/worked-example.md).
+[The worked example](example/worked-example.md) has two made-up complaints to a small bakery. One is a real, simple fault that shouldn't be over-diagnosed. In the other, the real complaint isn't the problem itself but that nobody gave a warning about it. [The second worked example](example-two/worked-example.md) has the harder cases: an accurate description mistaken for a fault, and a complaint too vague to diagnose at all.
 
-Use [the blank template](templates/response-template.md) for your own case, and [the review checklist](checks/checklist.md) before sending any reply.
+Use [the blank template](templates/response-template.md) for your own case, and [the review checklist](checks/checklist.md) before you send any reply.
 
-No installation, project, or coding required to try it once.
+You don't need to install anything or write any code to try it once.
 
 ## Scope
 
-This is deliberately narrow: customer complaints specifically, not general workplace conflict or negotiation, where the right diagnosis needs more context than a single message provides.
+I kept this narrow on purpose. It's for customer complaints only. Conflict at work and negotiation need more context than one message gives.
 
 ## Before You Use It
 
-This drafts a reply and proposes a diagnosis. Sending anything, and any compensation offered, stays subject to explicit human approval.
+This suggests a diagnosis and drafts a reply. A person has to approve sending anything, and any compensation offered.
 
 ## Feedback
 
-Used it on a real complaint? [Start a discussion](https://github.com/shaunmarsden/diagnose-before-you-respond/discussions) if the diagnosis did not fit.
+Used it on a real complaint? [Start a discussion](https://github.com/shaunmarsden/diagnose-before-you-respond/discussions) if the diagnosis didn't fit.
 
 ## Part of a Family
 
-This is one of a family of free tools generalising [practical-ai-sales-workflows](https://github.com/shaunmarsden/practical-ai-sales-workflows) patterns beyond sales. See [sibling-projects](https://github.com/shaunmarsden/sibling-projects) for the rest. Not sure which one actually fits? Try [the interactive picker](https://shaunmarsden.github.io/sibling-projects/) for clickable cards, or [the router](https://github.com/shaunmarsden/sibling-projects/blob/main/ROUTER.md) if you would rather paste a description into an AI chat.
+This is one of a family of free tools that take patterns from [practical-ai-sales-workflows](https://github.com/shaunmarsden/practical-ai-sales-workflows) and use them outside sales. The rest are in [sibling-projects](https://github.com/shaunmarsden/sibling-projects). Not sure which one fits? Try [the interactive picker](https://shaunmarsden.github.io/sibling-projects/), or paste a description of your problem into an AI chat with [the router](https://github.com/shaunmarsden/sibling-projects/blob/main/ROUTER.md).

@@ -1,6 +1,6 @@
 # Worked Example Two: A Different Studio, the Other Two Drivers
 
-The first [example](../example/) tests `genuine-fault` and `feeling-unheard`. This one tests the remaining two: `expectation-mismatch`, and a complaint too vague to diagnose at all, where the right move is to stop and ask, not guess.
+The first [example](../example/) tests `genuine-fault` and `feeling-unheard`. This one tests two more: `expectation-mismatch`, and a complaint too vague to diagnose, where the tool should stop and ask, not guess.
 
 ## Case 3: The Glaze Colour
 
@@ -12,7 +12,7 @@ The first [example](../example/) tests `genuine-fault` and `feeling-unheard`. Th
 
 **Reply:** "Thanks for reaching out, and sorry it's not the shade you had in mind. Reactive glazes do vary piece to piece, which is part of what the listing describes, so I can't promise an exact match to a specific shade. If you'd like, I can look at what's currently in stock and see if anything is closer to what you pictured, or happy to talk through a return if it's not right for you."
 
-**Why this is right:** treating this as `genuine-fault` would mean apologising for a mistake that was not actually made. The listing was accurate; the mismatch is between what was expected and what was actually promised, not a broken commitment.
+**Why this is right:** treating this as `genuine-fault` would mean apologising for a mistake nobody made. The listing was accurate. The gap is between what the customer expected and what was promised, not a broken promise.
 
 ## Case 4: Too Vague to Diagnose
 
@@ -22,8 +22,8 @@ The first [example](../example/) tests `genuine-fault` and `feeling-unheard`. Th
 
 **Correct response:** stop rather than guess. There is not enough here to distinguish a genuine fault from an expectation mismatch from anything else. Ask for the minimum missing information: which order, and what specifically about it is not right.
 
-**Why this is right:** picking a diagnosis anyway, defaulting to `genuine-fault` because it is the simplest guess, or to `feeling-unheard` because it sounds emotionally safe, would mean answering a complaint that has not actually been described yet. The skill's own stop condition names exactly this case: "the complaint is too vague to distinguish a genuine fault from something else."
+**Why this is right:** picking a diagnosis anyway would mean answering a complaint nobody has described yet. It might default to `genuine-fault` as the simplest guess, or to `feeling-unheard` because it sounds safe. The skill's own stop condition names this exact case: "the complaint is too vague to distinguish a genuine fault from something else."
 
 ## What This Tests
 
-Case 3 checks that an accurate, honoured description does not get treated as a fault just because the customer is unhappy with the result. Case 4 checks that the tool actually stops and asks when there is not enough to diagnose, rather than forcing a plausible-sounding guess onto a one-line complaint.
+Case 3 checks that the tool doesn't treat an accurate description, which the product matched, as a fault just because the customer is unhappy. Case 4 checks that it stops and asks when there isn't enough to diagnose, rather than forcing a likely-sounding guess onto a one-line complaint.

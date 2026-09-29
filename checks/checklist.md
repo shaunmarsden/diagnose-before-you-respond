@@ -1,9 +1,9 @@
 # Human Review Checklist
 
-Run through this before sending any reply.
+Go through this before you send any reply.
 
-- [ ] The diagnosis matches what was actually said, not the most interesting-sounding category
-- [ ] A genuine, simple fault was not over-diagnosed into something requiring a longer response
-- [ ] A real underlying driver, distinct from the surface wording, was not missed
-- [ ] Nothing was promised that was not actually confirmed (a refund, replacement, or compensation)
-- [ ] If the complaint was too vague to diagnose, the reply asks for specifics rather than guessing
+- [ ] The diagnosis matches what the customer said, not the most interesting-sounding category
+- [ ] A real, simple fault hasn't been over-diagnosed into something that needs a longer reply
+- [ ] A real cause that differs from the surface wording hasn't been missed
+- [ ] The reply promises nothing that hasn't been confirmed (a refund, replacement or compensation)
+- [ ] If the complaint was too vague to diagnose, the reply asks for details rather than guessing
