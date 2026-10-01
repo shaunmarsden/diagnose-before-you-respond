@@ -1,6 +1,6 @@
 # Worked Example: Two Complaints, Millbrook Bakery
 
-An entirely fictional small bakery, testing whether a simple genuine fault gets over-diagnosed, and whether a real underlying driver gets correctly caught when it exists.
+A made-up small bakery. I tested whether the tool over-diagnoses a simple, real fault, and whether it catches a hidden cause when there is one.
 
 ## Case 1: Wrong Cake Flavour
 
@@ -10,7 +10,7 @@ An entirely fictional small bakery, testing whether a simple genuine fault gets 
 
 **Reply:** "I'm so sorry, this was our mistake, the wrong cake should never have gone out, especially with an allergy involved. I'd like to send a replacement lemon cake today at no charge, and refund the original order, both need a quick manager sign-off given the amount, which I'm requesting now. Thank you for flagging this straight away."
 
-**Why this is right:** the fault is real and specific. Adding a longer explanation about "we hear you" or digging for a deeper cause would be solving a problem that is not there.
+**Why this is right:** the fault is real and specific. A longer "we hear you" reply, or digging for a deeper cause, would solve a problem that isn't there.
 
 ## Case 2: Late Collection Order
 
@@ -20,8 +20,8 @@ An entirely fictional small bakery, testing whether a simple genuine fault gets 
 
 **Reply:** "Sorry about that, and you're right, we should have let you know as soon as we realised it was running behind rather than leaving you to find out by waiting. I'll flag this with the team so orders running late get a heads-up call going forward. Would a small credit toward your next order help make up for the wait? I'd like to apply that, pending a quick check with my manager."
 
-**Why this is right:** answering only "sorry it was late" would miss the actual complaint, which is about the lack of warning, not the twenty minutes itself.
+**Why this is right:** a reply of only "sorry it was late" would miss the real complaint. It's about the missing warning, not the twenty minutes.
 
 ## What This Tests
 
-Case 1 checks that a simple, genuine fault does not get over-diagnosed into something requiring a longer, more complex response than it needs. Case 2 checks that a real underlying driver, distinct from the stated issue, gets caught rather than answered only at the surface.
+Case 1 checks that the tool doesn't over-diagnose a simple, real fault and give a longer reply than it needs. Case 2 checks that it catches a hidden cause that differs from the stated problem, rather than answering only the surface.
