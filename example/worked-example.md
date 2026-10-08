@@ -12,6 +12,8 @@ A made-up small bakery. I tested whether the tool over-diagnoses a simple, real 
 
 **Why this is right:** the fault is real and specific. A longer "we hear you" reply, or digging for a deeper cause, would solve a problem that isn't there.
 
+**What a person still needs to check:** the reply says approval is needed "given the amount", but the complaint gives no amount, so that detail is invented. The complaint also describes an allergen mix-up. Someone should find out how the wrong cake went out, as that is a safety issue as well as a service one.
+
 ## Case 2: Late Collection Order
 
 **Complaint:** "My order wasn't ready when I arrived, I ended up waiting twenty minutes. Would've been nice to get a heads up instead of just standing there."
@@ -22,6 +24,10 @@ A made-up small bakery. I tested whether the tool over-diagnoses a simple, real 
 
 **Why this is right:** a reply of only "sorry it was late" would miss the real complaint. It's about the missing warning, not the twenty minutes.
 
+**What a person still needs to check:** the reply says late orders will get a heads-up call from now on, and implies staff knew the order was running late. The complaint supports neither. Check both with the team before sending.
+
 ## What This Tests
 
 Case 1 checks that the tool doesn't over-diagnose a simple, real fault and give a longer reply than it needs. Case 2 checks that it catches a hidden cause that differs from the stated problem, rather than answering only the surface.
+
+The repository doesn't record which model wrote the diagnoses and replies, or whether it knew what the test was checking. Read them as an illustration of what a good run looks like, not as a logged run.
