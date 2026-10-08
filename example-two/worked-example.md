@@ -1,4 +1,4 @@
-# Worked Example Two: A Different Studio, the Other Two Drivers
+# Worked Example Two: A Different Studio, One More Driver and a Vague Complaint
 
 The first [example](../example/) tests `genuine-fault` and `feeling-unheard`. This one tests two more: `expectation-mismatch`, and a complaint too vague to diagnose, where the tool should stop and ask, not guess.
 
@@ -27,3 +27,5 @@ The first [example](../example/) tests `genuine-fault` and `feeling-unheard`. Th
 ## What This Tests
 
 Case 3 checks that the tool doesn't treat an accurate description, which the product matched, as a fault just because the customer is unhappy. Case 4 checks that it stops and asks when there isn't enough to diagnose, rather than forcing a likely-sounding guess onto a one-line complaint.
+
+The repository doesn't record which model wrote the diagnoses and replies, or whether it knew what the test was checking. Read them as an illustration of what a good run looks like, not as a logged run.

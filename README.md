@@ -9,7 +9,7 @@ Work out what's really behind a customer complaint before you draft a reply, rat
 
 ## Why
 
-Some complaints are exactly what they say: a real, specific fault that needs fixing. Others say one thing when the real cause is something else, usually that nobody owned up to the problem until the customer complained. Answer the wrong one and the reply goes wrong. You over-explain a simple fault, or say too little about a real frustration.
+Some complaints are exactly what they say: a real, specific fault that needs fixing. Others say one thing when the real cause is something else, often that nobody owned up to the problem until the customer complained. Answer the wrong one and the reply goes wrong. You over-explain a simple fault, or say too little about a real frustration.
 
 [![Four possible drivers behind a complaint before a response is drafted.](assets/diagrams/04-diagnose-before-you-respond.svg)](SKILL.md)
 
